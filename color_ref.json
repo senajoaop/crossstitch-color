@@ -1,0 +1,4892 @@
+{
+    "0": {
+        "Name": "Salmon Very Light",
+        "RGB": [
+            255,
+            226,
+            226
+        ],
+        "DMC": 3713,
+        "Anchor": 1020
+    },
+    "1": {
+        "Name": "Salmon Light",
+        "RGB": [
+            255,
+            201,
+            201
+        ],
+        "DMC": 761,
+        "Anchor": 1021
+    },
+    "2": {
+        "Name": "Salmon",
+        "RGB": [
+            245,
+            173,
+            173
+        ],
+        "DMC": 760,
+        "Anchor": 1022
+    },
+    "3": {
+        "Name": "Salmon Medium",
+        "RGB": [
+            241,
+            135,
+            135
+        ],
+        "DMC": 3712,
+        "Anchor": 1023
+    },
+    "4": {
+        "Name": "Salmon Dark",
+        "RGB": [
+            227,
+            109,
+            109
+        ],
+        "DMC": 3328,
+        "Anchor": 1024
+    },
+    "5": {
+        "Name": "Salmon Very Dark",
+        "RGB": [
+            191,
+            45,
+            45
+        ],
+        "DMC": 347,
+        "Anchor": 1025
+    },
+    "6": {
+        "Name": "Peach",
+        "RGB": [
+            254,
+            215,
+            204
+        ],
+        "DMC": 353,
+        "Anchor": 6
+    },
+    "7": {
+        "Name": "Coral Light",
+        "RGB": [
+            253,
+            156,
+            151
+        ],
+        "DMC": 352,
+        "Anchor": 9
+    },
+    "8": {
+        "Name": "Coral",
+        "RGB": [
+            233,
+            106,
+            103
+        ],
+        "DMC": 351,
+        "Anchor": 10
+    },
+    "9": {
+        "Name": "Coral Medium",
+        "RGB": [
+            224,
+            72,
+            72
+        ],
+        "DMC": 350,
+        "Anchor": 11
+    },
+    "10": {
+        "Name": "Coral Dark",
+        "RGB": [
+            210,
+            16,
+            53
+        ],
+        "DMC": 349,
+        "Anchor": 13
+    },
+    "11": {
+        "Name": "Coral Red Very Dark",
+        "RGB": [
+            187,
+            5,
+            31
+        ],
+        "DMC": 817,
+        "Anchor": 13
+    },
+    "12": {
+        "Name": "Melon Light",
+        "RGB": [
+            255,
+            203,
+            213
+        ],
+        "DMC": 3708,
+        "Anchor": 31
+    },
+    "13": {
+        "Name": "Melon Medium",
+        "RGB": [
+            255,
+            173,
+            188
+        ],
+        "DMC": 3706,
+        "Anchor": 33
+    },
+    "14": {
+        "Name": "Melon Dark",
+        "RGB": [
+            255,
+            121,
+            146
+        ],
+        "DMC": 3705,
+        "Anchor": 35
+    },
+    "15": {
+        "Name": "Melon Very Dark",
+        "RGB": [
+            231,
+            73,
+            103
+        ],
+        "DMC": 3801,
+        "Anchor": 1098
+    },
+    "16": {
+        "Name": "Bright Red",
+        "RGB": [
+            227,
+            29,
+            66
+        ],
+        "DMC": 666,
+        "Anchor": 46
+    },
+    "17": {
+        "Name": "Red",
+        "RGB": [
+            199,
+            43,
+            59
+        ],
+        "DMC": 321,
+        "Anchor": 9046
+    },
+    "18": {
+        "Name": "Red Medium",
+        "RGB": [
+            183,
+            31,
+            51
+        ],
+        "DMC": 304,
+        "Anchor": 1006
+    },
+    "19": {
+        "Name": "Red Dark",
+        "RGB": [
+            167,
+            19,
+            43
+        ],
+        "DMC": 498,
+        "Anchor": 1005
+    },
+    "20": {
+        "Name": "Garnet",
+        "RGB": [
+            151,
+            11,
+            35
+        ],
+        "DMC": 816,
+        "Anchor": 43
+    },
+    "21": {
+        "Name": "Garnet Medium",
+        "RGB": [
+            135,
+            7,
+            31
+        ],
+        "DMC": 815,
+        "Anchor": 44
+    },
+    "22": {
+        "Name": "Garnet Dark",
+        "RGB": [
+            123,
+            0,
+            27
+        ],
+        "DMC": 814,
+        "Anchor": 45
+    },
+    "23": {
+        "Name": "Carnation Very Light",
+        "RGB": [
+            255,
+            178,
+            187
+        ],
+        "DMC": 894,
+        "Anchor": 27
+    },
+    "24": {
+        "Name": "Carnation Light",
+        "RGB": [
+            252,
+            144,
+            162
+        ],
+        "DMC": 893,
+        "Anchor": 33
+    },
+    "25": {
+        "Name": "Carnation Medium",
+        "RGB": [
+            255,
+            121,
+            140
+        ],
+        "DMC": 892,
+        "Anchor": 35
+    },
+    "26": {
+        "Name": "Carnation Dark",
+        "RGB": [
+            255,
+            87,
+            115
+        ],
+        "DMC": 891,
+        "Anchor": 35
+    },
+    "27": {
+        "Name": "Baby Pink",
+        "RGB": [
+            255,
+            223,
+            217
+        ],
+        "DMC": 818,
+        "Anchor": 23
+    },
+    "28": {
+        "Name": "Geranium Pale",
+        "RGB": [
+            253,
+            181,
+            181
+        ],
+        "DMC": 957,
+        "Anchor": 50
+    },
+    "29": {
+        "Name": "Geranium",
+        "RGB": [
+            255,
+            145,
+            145
+        ],
+        "DMC": 956,
+        "Anchor": 40
+    },
+    "30": {
+        "Name": "Rose Dark",
+        "RGB": [
+            186,
+            74,
+            74
+        ],
+        "DMC": 309,
+        "Anchor": 42
+    },
+    "31": {
+        "Name": "Dusty Rose Ultra Very Light",
+        "RGB": [
+            255,
+            215,
+            215
+        ],
+        "DMC": 963,
+        "Anchor": 73
+    },
+    "32": {
+        "Name": "Dusty Rose Medium Very Light",
+        "RGB": [
+            255,
+            189,
+            189
+        ],
+        "DMC": 3716,
+        "Anchor": 25
+    },
+    "33": {
+        "Name": "Dusty Rose Medium",
+        "RGB": [
+            230,
+            138,
+            138
+        ],
+        "DMC": 962,
+        "Anchor": 75
+    },
+    "34": {
+        "Name": "Dusty Rose Dark",
+        "RGB": [
+            207,
+            115,
+            115
+        ],
+        "DMC": 961,
+        "Anchor": 76
+    },
+    "35": {
+        "Name": "Raspberry Light",
+        "RGB": [
+            234,
+            134,
+            153
+        ],
+        "DMC": 3833,
+        "Anchor": 26
+    },
+    "36": {
+        "Name": "Raspberry Medium",
+        "RGB": [
+            219,
+            85,
+            110
+        ],
+        "DMC": 3832,
+        "Anchor": 28
+    },
+    "37": {
+        "Name": "Raspberry Dark",
+        "RGB": [
+            179,
+            47,
+            72
+        ],
+        "DMC": 3831,
+        "Anchor": 29
+    },
+    "38": {
+        "Name": "Raspberry Very Dark",
+        "RGB": [
+            145,
+            53,
+            70
+        ],
+        "DMC": 777,
+        "Anchor": 897
+    },
+    "39": {
+        "Name": "Baby Pink Light",
+        "RGB": [
+            255,
+            238,
+            235
+        ],
+        "DMC": 819,
+        "Anchor": 271
+    },
+    "40": {
+        "Name": "Rose Light",
+        "RGB": [
+            251,
+            173,
+            180
+        ],
+        "DMC": 3326,
+        "Anchor": 36
+    },
+    "41": {
+        "Name": "Pink Medium",
+        "RGB": [
+            252,
+            176,
+            185
+        ],
+        "DMC": 776,
+        "Anchor": 24
+    },
+    "42": {
+        "Name": "Rose Medium",
+        "RGB": [
+            242,
+            118,
+            136
+        ],
+        "DMC": 899,
+        "Anchor": 52
+    },
+    "43": {
+        "Name": "Rose",
+        "RGB": [
+            238,
+            84,
+            110
+        ],
+        "DMC": 335,
+        "Anchor": 38
+    },
+    "44": {
+        "Name": "Rose Very Dark",
+        "RGB": [
+            179,
+            59,
+            75
+        ],
+        "DMC": 326,
+        "Anchor": 59
+    },
+    "45": {
+        "Name": "Dusty Rose Very Light",
+        "RGB": [
+            240,
+            206,
+            212
+        ],
+        "DMC": 151,
+        "Anchor": 73
+    },
+    "46": {
+        "Name": "Dusty Rose Light",
+        "RGB": [
+            228,
+            166,
+            172
+        ],
+        "DMC": 3354,
+        "Anchor": 74
+    },
+    "47": {
+        "Name": "Dusty Rose",
+        "RGB": [
+            232,
+            135,
+            155
+        ],
+        "DMC": 3733,
+        "Anchor": 75
+    },
+    "48": {
+        "Name": "Dusty Rose Very Dark",
+        "RGB": [
+            218,
+            103,
+            131
+        ],
+        "DMC": 3731,
+        "Anchor": 76
+    },
+    "49": {
+        "Name": "Dusty Rose Ultra Dark",
+        "RGB": [
+            188,
+            67,
+            101
+        ],
+        "DMC": 3350,
+        "Anchor": 59
+    },
+    "50": {
+        "Name": "Dusty Rose Ultra Very Dark",
+        "RGB": [
+            171,
+            2,
+            73
+        ],
+        "DMC": 150,
+        "Anchor": 89
+    },
+    "51": {
+        "Name": "Mauve Light",
+        "RGB": [
+            251,
+            191,
+            194
+        ],
+        "DMC": 3689,
+        "Anchor": 49
+    },
+    "52": {
+        "Name": "Mauve Medium",
+        "RGB": [
+            231,
+            169,
+            172
+        ],
+        "DMC": 3688,
+        "Anchor": 66
+    },
+    "53": {
+        "Name": "Mauve",
+        "RGB": [
+            201,
+            107,
+            112
+        ],
+        "DMC": 3687,
+        "Anchor": 68
+    },
+    "54": {
+        "Name": "Mauve Dark",
+        "RGB": [
+            171,
+            51,
+            87
+        ],
+        "DMC": 3803,
+        "Anchor": 69
+    },
+    "55": {
+        "Name": "Mauve Very Dark",
+        "RGB": [
+            136,
+            21,
+            49
+        ],
+        "DMC": 3685,
+        "Anchor": 1028
+    },
+    "56": {
+        "Name": "Cranberry Very Light",
+        "RGB": [
+            255,
+            192,
+            205
+        ],
+        "DMC": 605,
+        "Anchor": 1094
+    },
+    "57": {
+        "Name": "Cranberry Light",
+        "RGB": [
+            255,
+            176,
+            190
+        ],
+        "DMC": 604,
+        "Anchor": 55
+    },
+    "58": {
+        "Name": "Cranberry",
+        "RGB": [
+            255,
+            164,
+            190
+        ],
+        "DMC": 603,
+        "Anchor": 33
+    },
+    "59": {
+        "Name": "Cranberry Medium",
+        "RGB": [
+            226,
+            72,
+            116
+        ],
+        "DMC": 602,
+        "Anchor": 57
+    },
+    "60": {
+        "Name": "Cranberry Dark",
+        "RGB": [
+            209,
+            40,
+            106
+        ],
+        "DMC": 601,
+        "Anchor": 63
+    },
+    "61": {
+        "Name": "Cranberry Very Dark",
+        "RGB": [
+            205,
+            47,
+            99
+        ],
+        "DMC": 600,
+        "Anchor": 59
+    },
+    "62": {
+        "Name": "Cyclamen Pink Light",
+        "RGB": [
+            255,
+            140,
+            174
+        ],
+        "DMC": 3806,
+        "Anchor": 62
+    },
+    "63": {
+        "Name": "Cyclamen Pink",
+        "RGB": [
+            243,
+            71,
+            139
+        ],
+        "DMC": 3805,
+        "Anchor": 62
+    },
+    "64": {
+        "Name": "Cyclamen Pink Dark",
+        "RGB": [
+            224,
+            40,
+            118
+        ],
+        "DMC": 3804,
+        "Anchor": 63
+    },
+    "65": {
+        "Name": "Plum Ultra Light",
+        "RGB": [
+            244,
+            174,
+            215
+        ],
+        "DMC": 3609,
+        "Anchor": 85
+    },
+    "66": {
+        "Name": "Plum Very Light",
+        "RGB": [
+            234,
+            156,
+            196
+        ],
+        "DMC": 3608,
+        "Anchor": 86
+    },
+    "67": {
+        "Name": "Plum Light",
+        "RGB": [
+            197,
+            73,
+            137
+        ],
+        "DMC": 3607,
+        "Anchor": 87
+    },
+    "68": {
+        "Name": "Plum",
+        "RGB": [
+            156,
+            36,
+            98
+        ],
+        "DMC": 718,
+        "Anchor": 88
+    },
+    "69": {
+        "Name": "Plum Medium",
+        "RGB": [
+            155,
+            19,
+            89
+        ],
+        "DMC": 917,
+        "Anchor": 89
+    },
+    "70": {
+        "Name": "Plum Dark",
+        "RGB": [
+            130,
+            0,
+            67
+        ],
+        "DMC": 915,
+        "Anchor": 1029
+    },
+    "71": {
+        "Name": "Shell Pink Ultra Very Light",
+        "RGB": [
+            255,
+            223,
+            215
+        ],
+        "DMC": 225,
+        "Anchor": 1026
+    },
+    "72": {
+        "Name": "Shell Pink Very Light",
+        "RGB": [
+            235,
+            183,
+            175
+        ],
+        "DMC": 224,
+        "Anchor": 893
+    },
+    "73": {
+        "Name": "Shell Pink Medium Light",
+        "RGB": [
+            226,
+            160,
+            153
+        ],
+        "DMC": 152,
+        "Anchor": 893
+    },
+    "74": {
+        "Name": "Shell Pink Light",
+        "RGB": [
+            204,
+            132,
+            124
+        ],
+        "DMC": 223,
+        "Anchor": 895
+    },
+    "75": {
+        "Name": "Shell Pink Medium",
+        "RGB": [
+            188,
+            108,
+            100
+        ],
+        "DMC": 3722,
+        "Anchor": 1027
+    },
+    "76": {
+        "Name": "Shell Pink Dark",
+        "RGB": [
+            161,
+            75,
+            81
+        ],
+        "DMC": 3721,
+        "Anchor": 896
+    },
+    "77": {
+        "Name": "Shell Pink Very Dark",
+        "RGB": [
+            136,
+            62,
+            67
+        ],
+        "DMC": 221,
+        "Anchor": 897
+    },
+    "78": {
+        "Name": "Antique Mauve Very Light",
+        "RGB": [
+            223,
+            179,
+            187
+        ],
+        "DMC": 778,
+        "Anchor": 968
+    },
+    "79": {
+        "Name": "Antique Mauve Light",
+        "RGB": [
+            219,
+            169,
+            178
+        ],
+        "DMC": 3727,
+        "Anchor": 1016
+    },
+    "80": {
+        "Name": "Antique Mauve Medium",
+        "RGB": [
+            183,
+            115,
+            127
+        ],
+        "DMC": 316,
+        "Anchor": 1017
+    },
+    "81": {
+        "Name": "Antique Mauve Dark",
+        "RGB": [
+            155,
+            91,
+            102
+        ],
+        "DMC": 3726,
+        "Anchor": 1018
+    },
+    "82": {
+        "Name": "Antique Mauve Medium Dark",
+        "RGB": [
+            129,
+            73,
+            82
+        ],
+        "DMC": 315,
+        "Anchor": 1019
+    },
+    "83": {
+        "Name": "Antique Mauve Very Darkv",
+        "RGB": [
+            113,
+            65,
+            73
+        ],
+        "DMC": 3802,
+        "Anchor": 1019
+    },
+    "84": {
+        "Name": "Garnet Very Dark",
+        "RGB": [
+            130,
+            38,
+            55
+        ],
+        "DMC": 902,
+        "Anchor": 897
+    },
+    "85": {
+        "Name": "Antique Violet Very Light",
+        "RGB": [
+            215,
+            203,
+            211
+        ],
+        "DMC": 3743,
+        "Anchor": 869
+    },
+    "86": {
+        "Name": "Antique Violet Light",
+        "RGB": [
+            183,
+            157,
+            167
+        ],
+        "DMC": 3042,
+        "Anchor": 870
+    },
+    "87": {
+        "Name": "Antique Violet Medium",
+        "RGB": [
+            149,
+            111,
+            124
+        ],
+        "DMC": 3041,
+        "Anchor": 871
+    },
+    "88": {
+        "Name": "Antique Violet Dark",
+        "RGB": [
+            120,
+            87,
+            98
+        ],
+        "DMC": 3740,
+        "Anchor": 873
+    },
+    "89": {
+        "Name": "Grape Light",
+        "RGB": [
+            186,
+            145,
+            170
+        ],
+        "DMC": 3836,
+        "Anchor": 90
+    },
+    "90": {
+        "Name": "Grape Medium",
+        "RGB": [
+            148,
+            96,
+            131
+        ],
+        "DMC": 3835,
+        "Anchor": 98
+    },
+    "91": {
+        "Name": "Grape Dark",
+        "RGB": [
+            114,
+            55,
+            93
+        ],
+        "DMC": 3834,
+        "Anchor": 100
+    },
+    "92": {
+        "Name": "Grape Very Dark",
+        "RGB": [
+            87,
+            36,
+            51
+        ],
+        "DMC": 154,
+        "Anchor": 936
+    },
+    "93": {
+        "Name": "Lavender Light",
+        "RGB": [
+            227,
+            203,
+            227
+        ],
+        "DMC": 211,
+        "Anchor": 342
+    },
+    "94": {
+        "Name": "Lavender Medium",
+        "RGB": [
+            210,
+            159,
+            195
+        ],
+        "DMC": 210,
+        "Anchor": 108
+    },
+    "95": {
+        "Name": "Lavender Dark",
+        "RGB": [
+            163,
+            123,
+            167
+        ],
+        "DMC": 209,
+        "Anchor": 109
+    },
+    "96": {
+        "Name": "Lavender Very Dark",
+        "RGB": [
+            131,
+            91,
+            139
+        ],
+        "DMC": 208,
+        "Anchor": 110
+    },
+    "97": {
+        "Name": "Lavender Ultra Dark",
+        "RGB": [
+            108,
+            58,
+            110
+        ],
+        "DMC": 3837,
+        "Anchor": 101
+    },
+    "98": {
+        "Name": "Violet Dark",
+        "RGB": [
+            99,
+            54,
+            102
+        ],
+        "DMC": 327,
+        "Anchor": 100
+    },
+    "99": {
+        "Name": "Violet Very Light",
+        "RGB": [
+            230,
+            204,
+            217
+        ],
+        "DMC": 153,
+        "Anchor": 342
+    },
+    "100": {
+        "Name": "Violet Light",
+        "RGB": [
+            219,
+            179,
+            203
+        ],
+        "DMC": 554,
+        "Anchor": 96
+    },
+    "101": {
+        "Name": "Violet",
+        "RGB": [
+            163,
+            99,
+            139
+        ],
+        "DMC": 553,
+        "Anchor": 98
+    },
+    "102": {
+        "Name": "Violet  Medium",
+        "RGB": [
+            128,
+            58,
+            107
+        ],
+        "DMC": 552,
+        "Anchor": 101
+    },
+    "103": {
+        "Name": "Violet Very Dark",
+        "RGB": [
+            92,
+            24,
+            78
+        ],
+        "DMC": 550,
+        "Anchor": 102
+    },
+    "104": {
+        "Name": "Blue Violet Very Light",
+        "RGB": [
+            211,
+            215,
+            237
+        ],
+        "DMC": 3747,
+        "Anchor": 120
+    },
+    "105": {
+        "Name": "Blue Violet Light",
+        "RGB": [
+            183,
+            191,
+            221
+        ],
+        "DMC": 341,
+        "Anchor": 117
+    },
+    "106": {
+        "Name": "Blue Violet Medium Light",
+        "RGB": [
+            163,
+            174,
+            209
+        ],
+        "DMC": 156,
+        "Anchor": 117
+    },
+    "107": {
+        "Name": "Blue Violet Medium",
+        "RGB": [
+            173,
+            167,
+            199
+        ],
+        "DMC": 340,
+        "Anchor": 118
+    },
+    "108": {
+        "Name": "Blue Violet Medium Dark",
+        "RGB": [
+            152,
+            145,
+            182
+        ],
+        "DMC": 155,
+        "Anchor": 118
+    },
+    "109": {
+        "Name": "Blue Violet Dark",
+        "RGB": [
+            119,
+            107,
+            152
+        ],
+        "DMC": 3746,
+        "Anchor": 1030
+    },
+    "110": {
+        "Name": "Blue Violet Very Dark",
+        "RGB": [
+            92,
+            84,
+            120
+        ],
+        "DMC": 333,
+        "Anchor": 119
+    },
+    "111": {
+        "Name": "Cornflower Blue Very Light",
+        "RGB": [
+            187,
+            195,
+            217
+        ],
+        "DMC": 157,
+        "Anchor": 117
+    },
+    "112": {
+        "Name": "Cornflower Blue Light",
+        "RGB": [
+            143,
+            156,
+            193
+        ],
+        "DMC": 794,
+        "Anchor": 175
+    },
+    "113": {
+        "Name": "Cornflower Blue Medium",
+        "RGB": [
+            112,
+            125,
+            162
+        ],
+        "DMC": 793,
+        "Anchor": 176
+    },
+    "114": {
+        "Name": "Cornflower Blue",
+        "RGB": [
+            96,
+            103,
+            140
+        ],
+        "DMC": 3807,
+        "Anchor": 122
+    },
+    "115": {
+        "Name": "Cornflower Blue Dark",
+        "RGB": [
+            85,
+            91,
+            123
+        ],
+        "DMC": 792,
+        "Anchor": 941
+    },
+    "116": {
+        "Name": "Cornflower Blue  Very Dark",
+        "RGB": [
+            76,
+            82,
+            110
+        ],
+        "DMC": 158,
+        "Anchor": 941
+    },
+    "117": {
+        "Name": "Cornflower Blue Very Dark",
+        "RGB": [
+            70,
+            69,
+            99
+        ],
+        "DMC": 791,
+        "Anchor": 178
+    },
+    "118": {
+        "Name": "Lavender Blue Light",
+        "RGB": [
+            176,
+            192,
+            218
+        ],
+        "DMC": 3840,
+        "Anchor": 117
+    },
+    "119": {
+        "Name": "Lavender Blue Medium",
+        "RGB": [
+            123,
+            142,
+            171
+        ],
+        "DMC": 3839,
+        "Anchor": 176
+    },
+    "120": {
+        "Name": "Lavender Blue Dark",
+        "RGB": [
+            92,
+            114,
+            148
+        ],
+        "DMC": 3838,
+        "Anchor": 177
+    },
+    "121": {
+        "Name": "Delft Blue Pale",
+        "RGB": [
+            192,
+            204,
+            222
+        ],
+        "DMC": 800,
+        "Anchor": 144
+    },
+    "122": {
+        "Name": "Delft Blue",
+        "RGB": [
+            148,
+            168,
+            198
+        ],
+        "DMC": 809,
+        "Anchor": 130
+    },
+    "123": {
+        "Name": "Delft Blue Medium",
+        "RGB": [
+            116,
+            142,
+            182
+        ],
+        "DMC": 799,
+        "Anchor": 145
+    },
+    "124": {
+        "Name": "Delft Blue Dark",
+        "RGB": [
+            70,
+            106,
+            142
+        ],
+        "DMC": 798,
+        "Anchor": 146
+    },
+    "125": {
+        "Name": "Royal Blue",
+        "RGB": [
+            19,
+            71,
+            125
+        ],
+        "DMC": 797,
+        "Anchor": 132
+    },
+    "126": {
+        "Name": "Royal Blue Dark",
+        "RGB": [
+            17,
+            65,
+            109
+        ],
+        "DMC": 796,
+        "Anchor": 133
+    },
+    "127": {
+        "Name": "Royal Blue Very Dark",
+        "RGB": [
+            14,
+            54,
+            92
+        ],
+        "DMC": 820,
+        "Anchor": 134
+    },
+    "128": {
+        "Name": "Blue Ultra Very Light",
+        "RGB": [
+            219,
+            236,
+            245
+        ],
+        "DMC": 162,
+        "Anchor": 128
+    },
+    "129": {
+        "Name": "Blue Very Light",
+        "RGB": [
+            189,
+            221,
+            237
+        ],
+        "DMC": 827,
+        "Anchor": 160
+    },
+    "130": {
+        "Name": "Blue Light",
+        "RGB": [
+            161,
+            194,
+            215
+        ],
+        "DMC": 813,
+        "Anchor": 161
+    },
+    "131": {
+        "Name": "Blue Medium",
+        "RGB": [
+            107,
+            158,
+            191
+        ],
+        "DMC": 826,
+        "Anchor": 161
+    },
+    "132": {
+        "Name": "Blue Dark",
+        "RGB": [
+            71,
+            129,
+            165
+        ],
+        "DMC": 825,
+        "Anchor": 162
+    },
+    "133": {
+        "Name": "Blue Very Dark",
+        "RGB": [
+            57,
+            105,
+            135
+        ],
+        "DMC": 824,
+        "Anchor": 164
+    },
+    "134": {
+        "Name": "Electric Blue Medium",
+        "RGB": [
+            48,
+            194,
+            236
+        ],
+        "DMC": 996,
+        "Anchor": 433
+    },
+    "135": {
+        "Name": "Electric Blue",
+        "RGB": [
+            20,
+            170,
+            208
+        ],
+        "DMC": 3843,
+        "Anchor": 1089
+    },
+    "136": {
+        "Name": "Electric Blue Dark",
+        "RGB": [
+            38,
+            150,
+            182
+        ],
+        "DMC": 995,
+        "Anchor": 410
+    },
+    "137": {
+        "Name": "Turquoise Bright Light",
+        "RGB": [
+            6,
+            227,
+            230
+        ],
+        "DMC": 3846,
+        "Anchor": 1090
+    },
+    "138": {
+        "Name": "Turquoise Bright Medium",
+        "RGB": [
+            4,
+            196,
+            202
+        ],
+        "DMC": 3845,
+        "Anchor": 1089
+    },
+    "139": {
+        "Name": "Turquoise Bright Dark",
+        "RGB": [
+            18,
+            174,
+            186
+        ],
+        "DMC": 3844,
+        "Anchor": 410
+    },
+    "140": {
+        "Name": "Blue Gray Light",
+        "RGB": [
+            199,
+            202,
+            215
+        ],
+        "DMC": 159,
+        "Anchor": 389
+    },
+    "141": {
+        "Name": "Blue Gray Medium",
+        "RGB": [
+            153,
+            159,
+            183
+        ],
+        "DMC": 160,
+        "Anchor": 175
+    },
+    "142": {
+        "Name": "Blue Gray",
+        "RGB": [
+            120,
+            128,
+            164
+        ],
+        "DMC": 161,
+        "Anchor": 176
+    },
+    "143": {
+        "Name": "Baby Blue Ultra Very Light",
+        "RGB": [
+            238,
+            252,
+            252
+        ],
+        "DMC": 3756,
+        "Anchor": 1037
+    },
+    "144": {
+        "Name": "Baby Blue Very Light",
+        "RGB": [
+            217,
+            235,
+            241
+        ],
+        "DMC": 775,
+        "Anchor": 128
+    },
+    "145": {
+        "Name": "Baby Blue Pale",
+        "RGB": [
+            205,
+            223,
+            237
+        ],
+        "DMC": 3841,
+        "Anchor": 9159
+    },
+    "146": {
+        "Name": "Baby Blue Light",
+        "RGB": [
+            184,
+            210,
+            230
+        ],
+        "DMC": 3325,
+        "Anchor": 129
+    },
+    "147": {
+        "Name": "Baby Blue",
+        "RGB": [
+            146,
+            180,
+            206
+        ],
+        "DMC": 3755,
+        "Anchor": 140
+    },
+    "148": {
+        "Name": "Baby Blue Medium",
+        "RGB": [
+            115,
+            159,
+            193
+        ],
+        "DMC": 334,
+        "Anchor": 977
+    },
+    "149": {
+        "Name": "Baby Blue Dark",
+        "RGB": [
+            90,
+            143,
+            184
+        ],
+        "DMC": 322,
+        "Anchor": 978
+    },
+    "150": {
+        "Name": "Baby Blue Very Dark",
+        "RGB": [
+            53,
+            102,
+            139
+        ],
+        "DMC": 312,
+        "Anchor": 979
+    },
+    "151": {
+        "Name": "Baby Blue Ultra Very Dark",
+        "RGB": [
+            44,
+            89,
+            124
+        ],
+        "DMC": 803,
+        "Anchor": 979
+    },
+    "152": {
+        "Name": "Navy Blue",
+        "RGB": [
+            37,
+            59,
+            115
+        ],
+        "DMC": 336,
+        "Anchor": 150
+    },
+    "153": {
+        "Name": "Navy Blue Dark",
+        "RGB": [
+            33,
+            48,
+            99
+        ],
+        "DMC": 823,
+        "Anchor": 152
+    },
+    "154": {
+        "Name": "Navy Blue Very Dark",
+        "RGB": [
+            27,
+            40,
+            83
+        ],
+        "DMC": 939,
+        "Anchor": 152
+    },
+    "155": {
+        "Name": "Antique Blue Ultra Very Light",
+        "RGB": [
+            219,
+            226,
+            233
+        ],
+        "DMC": 3753,
+        "Anchor": 1031
+    },
+    "156": {
+        "Name": "Antique Blue Very Light",
+        "RGB": [
+            199,
+            209,
+            219
+        ],
+        "DMC": 3752,
+        "Anchor": 1032
+    },
+    "157": {
+        "Name": "Antique Blue Light",
+        "RGB": [
+            162,
+            181,
+            198
+        ],
+        "DMC": 932,
+        "Anchor": 1033
+    },
+    "158": {
+        "Name": "Antique Blue Medium",
+        "RGB": [
+            106,
+            133,
+            158
+        ],
+        "DMC": 931,
+        "Anchor": 1034
+    },
+    "159": {
+        "Name": "Antique Blue Dark",
+        "RGB": [
+            69,
+            92,
+            113
+        ],
+        "DMC": 930,
+        "Anchor": 1035
+    },
+    "160": {
+        "Name": "Antique Blue Very Dark",
+        "RGB": [
+            56,
+            76,
+            94
+        ],
+        "DMC": 3750,
+        "Anchor": 1036
+    },
+    "161": {
+        "Name": "Sky Blue Very Light",
+        "RGB": [
+            197,
+            232,
+            237
+        ],
+        "DMC": 828,
+        "Anchor": 9159
+    },
+    "162": {
+        "Name": "Sky Blue Light",
+        "RGB": [
+            172,
+            216,
+            226
+        ],
+        "DMC": 3761,
+        "Anchor": 928
+    },
+    "163": {
+        "Name": "Sky Blue",
+        "RGB": [
+            126,
+            177,
+            200
+        ],
+        "DMC": 519,
+        "Anchor": 1038
+    },
+    "164": {
+        "Name": "Wedgewood Light",
+        "RGB": [
+            79,
+            147,
+            167
+        ],
+        "DMC": 518,
+        "Anchor": 1039
+    },
+    "165": {
+        "Name": "Wedgewood Medium",
+        "RGB": [
+            62,
+            133,
+            162
+        ],
+        "DMC": 3760,
+        "Anchor": 162
+    },
+    "166": {
+        "Name": "Wedgewood Dark",
+        "RGB": [
+            59,
+            118,
+            143
+        ],
+        "DMC": 517,
+        "Anchor": 162
+    },
+    "167": {
+        "Name": "Wedgewood Very Dark",
+        "RGB": [
+            50,
+            102,
+            124
+        ],
+        "DMC": 3842,
+        "Anchor": 164
+    },
+    "168": {
+        "Name": "Wedgewood Ultra Very Dark",
+        "RGB": [
+            28,
+            80,
+            102
+        ],
+        "DMC": 311,
+        "Anchor": 148
+    },
+    "169": {
+        "Name": "Peacock Blue Very Light",
+        "RGB": [
+            229,
+            252,
+            253
+        ],
+        "DMC": 747,
+        "Anchor": 158
+    },
+    "170": {
+        "Name": "Peacock Blue Light",
+        "RGB": [
+            153,
+            207,
+            217
+        ],
+        "DMC": 3766,
+        "Anchor": 167
+    },
+    "171": {
+        "Name": "Peacock Blue",
+        "RGB": [
+            100,
+            171,
+            186
+        ],
+        "DMC": 807,
+        "Anchor": 168
+    },
+    "172": {
+        "Name": "Peacock Blue Dark",
+        "RGB": [
+            61,
+            149,
+            165
+        ],
+        "DMC": 806,
+        "Anchor": 169
+    },
+    "173": {
+        "Name": "Peacock Blue Very Dark",
+        "RGB": [
+            52,
+            127,
+            140
+        ],
+        "DMC": 3765,
+        "Anchor": 170
+    },
+    "174": {
+        "Name": "Turquoise Very Light",
+        "RGB": [
+            188,
+            227,
+            230
+        ],
+        "DMC": 3811,
+        "Anchor": 1060
+    },
+    "175": {
+        "Name": "Turquoise Light",
+        "RGB": [
+            144,
+            195,
+            204
+        ],
+        "DMC": 598,
+        "Anchor": 1062
+    },
+    "176": {
+        "Name": "Turquoise",
+        "RGB": [
+            91,
+            163,
+            179
+        ],
+        "DMC": 597,
+        "Anchor": 1064
+    },
+    "177": {
+        "Name": "Turquoise Dark",
+        "RGB": [
+            72,
+            142,
+            154
+        ],
+        "DMC": 3810,
+        "Anchor": 1066
+    },
+    "178": {
+        "Name": "Turquoise Vy Dark",
+        "RGB": [
+            63,
+            124,
+            133
+        ],
+        "DMC": 3809,
+        "Anchor": 1066
+    },
+    "179": {
+        "Name": "Turquoise Ultra Very Dark",
+        "RGB": [
+            54,
+            105,
+            112
+        ],
+        "DMC": 3808,
+        "Anchor": 1068
+    },
+    "180": {
+        "Name": "Gray Green Very Light",
+        "RGB": [
+            221,
+            227,
+            227
+        ],
+        "DMC": 928,
+        "Anchor": 274
+    },
+    "181": {
+        "Name": "Gray Green Light",
+        "RGB": [
+            189,
+            203,
+            203
+        ],
+        "DMC": 927,
+        "Anchor": 849
+    },
+    "182": {
+        "Name": "Gray Green Medium",
+        "RGB": [
+            152,
+            174,
+            174
+        ],
+        "DMC": 926,
+        "Anchor": 850
+    },
+    "183": {
+        "Name": "Gray Green Dark",
+        "RGB": [
+            101,
+            127,
+            127
+        ],
+        "DMC": 3768,
+        "Anchor": 779
+    },
+    "184": {
+        "Name": "Gray Green Vy Dark",
+        "RGB": [
+            86,
+            106,
+            106
+        ],
+        "DMC": 924,
+        "Anchor": 851
+    },
+    "185": {
+        "Name": "Teal Green Light",
+        "RGB": [
+            82,
+            179,
+            174
+        ],
+        "DMC": 3849,
+        "Anchor": 1070
+    },
+    "186": {
+        "Name": "Teal Green Medium",
+        "RGB": [
+            65,
+            147,
+            146
+        ],
+        "DMC": 3848,
+        "Anchor": 1074
+    },
+    "187": {
+        "Name": "Teal Green Dark",
+        "RGB": [
+            52,
+            125,
+            117
+        ],
+        "DMC": 3847,
+        "Anchor": 1076
+    },
+    "188": {
+        "Name": "Sea Green Light",
+        "RGB": [
+            169,
+            226,
+            216
+        ],
+        "DMC": 964,
+        "Anchor": 185
+    },
+    "189": {
+        "Name": "Sea Green Medium",
+        "RGB": [
+            89,
+            199,
+            180
+        ],
+        "DMC": 959,
+        "Anchor": 186
+    },
+    "190": {
+        "Name": "Sea Green Dark",
+        "RGB": [
+            62,
+            182,
+            161
+        ],
+        "DMC": 958,
+        "Anchor": 187
+    },
+    "191": {
+        "Name": "Sea Green Very Dark",
+        "RGB": [
+            47,
+            140,
+            132
+        ],
+        "DMC": 3812,
+        "Anchor": 188
+    },
+    "192": {
+        "Name": "Green Bright Light",
+        "RGB": [
+            73,
+            179,
+            161
+        ],
+        "DMC": 3851,
+        "Anchor": 187
+    },
+    "193": {
+        "Name": "Green Bright Medium",
+        "RGB": [
+            61,
+            147,
+            132
+        ],
+        "DMC": 943,
+        "Anchor": 189
+    },
+    "194": {
+        "Name": "Green Bright Dark",
+        "RGB": [
+            55,
+            132,
+            119
+        ],
+        "DMC": 3850,
+        "Anchor": 189
+    },
+    "195": {
+        "Name": "Aquamarine Very Light",
+        "RGB": [
+            144,
+            192,
+            180
+        ],
+        "DMC": 993,
+        "Anchor": 1070
+    },
+    "196": {
+        "Name": "Aquamarine Light",
+        "RGB": [
+            111,
+            174,
+            159
+        ],
+        "DMC": 992,
+        "Anchor": 1072
+    },
+    "197": {
+        "Name": "Aquamarine",
+        "RGB": [
+            80,
+            139,
+            125
+        ],
+        "DMC": 3814,
+        "Anchor": 1074
+    },
+    "198": {
+        "Name": "Aquamarine Dark",
+        "RGB": [
+            71,
+            123,
+            110
+        ],
+        "DMC": 991,
+        "Anchor": 1076
+    },
+    "199": {
+        "Name": "Jade Ultra Very Light",
+        "RGB": [
+            185,
+            215,
+            192
+        ],
+        "DMC": 966,
+        "Anchor": 240
+    },
+    "200": {
+        "Name": "Jade Very Light",
+        "RGB": [
+            167,
+            205,
+            175
+        ],
+        "DMC": 564,
+        "Anchor": 206
+    },
+    "201": {
+        "Name": "Jade Light",
+        "RGB": [
+            143,
+            192,
+            152
+        ],
+        "DMC": 563,
+        "Anchor": 208
+    },
+    "202": {
+        "Name": "Jade Medium",
+        "RGB": [
+            83,
+            151,
+            106
+        ],
+        "DMC": 562,
+        "Anchor": 210
+    },
+    "203": {
+        "Name": "Jade Green",
+        "RGB": [
+            51,
+            131,
+            98
+        ],
+        "DMC": 505,
+        "Anchor": 1076
+    },
+    "204": {
+        "Name": "Celadon Green Light",
+        "RGB": [
+            153,
+            195,
+            170
+        ],
+        "DMC": 3817,
+        "Anchor": 875
+    },
+    "205": {
+        "Name": "Celadon Green",
+        "RGB": [
+            101,
+            165,
+            125
+        ],
+        "DMC": 3816,
+        "Anchor": 876
+    },
+    "206": {
+        "Name": "Celadon Green Medium",
+        "RGB": [
+            77,
+            131,
+            97
+        ],
+        "DMC": 163,
+        "Anchor": 877
+    },
+    "207": {
+        "Name": "Celadon Green Dark",
+        "RGB": [
+            71,
+            119,
+            89
+        ],
+        "DMC": 3815,
+        "Anchor": 877
+    },
+    "208": {
+        "Name": "Celadon Green VD",
+        "RGB": [
+            44,
+            106,
+            69
+        ],
+        "DMC": 561,
+        "Anchor": 212
+    },
+    "209": {
+        "Name": "Blue Green Very Light",
+        "RGB": [
+            196,
+            222,
+            204
+        ],
+        "DMC": 504,
+        "Anchor": 1042
+    },
+    "210": {
+        "Name": "Blue Green Light",
+        "RGB": [
+            178,
+            212,
+            189
+        ],
+        "DMC": 3813,
+        "Anchor": 875
+    },
+    "211": {
+        "Name": "Blue Green Medium",
+        "RGB": [
+            123,
+            172,
+            148
+        ],
+        "DMC": 503,
+        "Anchor": 876
+    },
+    "212": {
+        "Name": "Blue Green",
+        "RGB": [
+            91,
+            144,
+            113
+        ],
+        "DMC": 502,
+        "Anchor": 877
+    },
+    "213": {
+        "Name": "Blue Green Dark",
+        "RGB": [
+            57,
+            111,
+            82
+        ],
+        "DMC": 501,
+        "Anchor": 878
+    },
+    "214": {
+        "Name": "Blue Green Very Dark",
+        "RGB": [
+            4,
+            77,
+            51
+        ],
+        "DMC": 500,
+        "Anchor": 683
+    },
+    "215": {
+        "Name": "Nile Green Light",
+        "RGB": [
+            162,
+            214,
+            173
+        ],
+        "DMC": 955,
+        "Anchor": 206
+    },
+    "216": {
+        "Name": "Nile Green",
+        "RGB": [
+            136,
+            186,
+            145
+        ],
+        "DMC": 954,
+        "Anchor": 203
+    },
+    "217": {
+        "Name": "Nile Green Medium",
+        "RGB": [
+            109,
+            171,
+            119
+        ],
+        "DMC": 913,
+        "Anchor": 204
+    },
+    "218": {
+        "Name": "Emerald Green Light",
+        "RGB": [
+            27,
+            157,
+            107
+        ],
+        "DMC": 912,
+        "Anchor": 209
+    },
+    "219": {
+        "Name": "Emerald Green Medium",
+        "RGB": [
+            24,
+            144,
+            101
+        ],
+        "DMC": 911,
+        "Anchor": 205
+    },
+    "220": {
+        "Name": "Emerald Green Dark",
+        "RGB": [
+            24,
+            126,
+            86
+        ],
+        "DMC": 910,
+        "Anchor": 230
+    },
+    "221": {
+        "Name": "Emerald Green Very Dark",
+        "RGB": [
+            21,
+            111,
+            73
+        ],
+        "DMC": 909,
+        "Anchor": 923
+    },
+    "222": {
+        "Name": "Emerald Green Ultra Very Dark",
+        "RGB": [
+            17,
+            90,
+            59
+        ],
+        "DMC": 3818,
+        "Anchor": 923
+    },
+    "223": {
+        "Name": "Pistachio Green Very Light",
+        "RGB": [
+            215,
+            237,
+            204
+        ],
+        "DMC": 369,
+        "Anchor": 1043
+    },
+    "224": {
+        "Name": "Pistachio Green Light",
+        "RGB": [
+            166,
+            194,
+            152
+        ],
+        "DMC": 368,
+        "Anchor": 214
+    },
+    "225": {
+        "Name": "Pistachio Green Medium",
+        "RGB": [
+            105,
+            136,
+            90
+        ],
+        "DMC": 320,
+        "Anchor": 215
+    },
+    "226": {
+        "Name": "Pistachio Green Dark",
+        "RGB": [
+            97,
+            122,
+            82
+        ],
+        "DMC": 367,
+        "Anchor": 216
+    },
+    "227": {
+        "Name": "Pistachio Grn Very Dark",
+        "RGB": [
+            32,
+            95,
+            46
+        ],
+        "DMC": 319,
+        "Anchor": 218
+    },
+    "228": {
+        "Name": "Pistachio Grn Ultra Very Dark",
+        "RGB": [
+            24,
+            73,
+            35
+        ],
+        "DMC": 890,
+        "Anchor": 218
+    },
+    "229": {
+        "Name": "Forest Green Light",
+        "RGB": [
+            200,
+            216,
+            184
+        ],
+        "DMC": 164,
+        "Anchor": 264
+    },
+    "230": {
+        "Name": "Forest Green ",
+        "RGB": [
+            141,
+            166,
+            117
+        ],
+        "DMC": 989,
+        "Anchor": 242
+    },
+    "231": {
+        "Name": "Forest Green Medium",
+        "RGB": [
+            115,
+            139,
+            91
+        ],
+        "DMC": 988,
+        "Anchor": 243
+    },
+    "232": {
+        "Name": "Forest Green Dark",
+        "RGB": [
+            88,
+            113,
+            65
+        ],
+        "DMC": 987,
+        "Anchor": 244
+    },
+    "233": {
+        "Name": "Forest Green Very Dark",
+        "RGB": [
+            64,
+            82,
+            48
+        ],
+        "DMC": 986,
+        "Anchor": 246
+    },
+    "234": {
+        "Name": "Yellow Green Very Light",
+        "RGB": [
+            228,
+            236,
+            212
+        ],
+        "DMC": 772,
+        "Anchor": 259
+    },
+    "235": {
+        "Name": "Yellow Green Light",
+        "RGB": [
+            204,
+            217,
+            177
+        ],
+        "DMC": 3348,
+        "Anchor": 264
+    },
+    "236": {
+        "Name": "Yellow Green Medium",
+        "RGB": [
+            113,
+            147,
+            92
+        ],
+        "DMC": 3347,
+        "Anchor": 266
+    },
+    "237": {
+        "Name": "Hunter Green",
+        "RGB": [
+            64,
+            106,
+            58
+        ],
+        "DMC": 3346,
+        "Anchor": 267
+    },
+    "238": {
+        "Name": "Hunter Green Dark",
+        "RGB": [
+            27,
+            89,
+            21
+        ],
+        "DMC": 3345,
+        "Anchor": 268
+    },
+    "239": {
+        "Name": "Hunter Green Very Dark",
+        "RGB": [
+            27,
+            83,
+            0
+        ],
+        "DMC": 895,
+        "Anchor": 1044
+    },
+    "240": {
+        "Name": "Chartreuse Bright",
+        "RGB": [
+            158,
+            207,
+            52
+        ],
+        "DMC": 704,
+        "Anchor": 256
+    },
+    "241": {
+        "Name": "Chartreuse",
+        "RGB": [
+            123,
+            181,
+            71
+        ],
+        "DMC": 703,
+        "Anchor": 238
+    },
+    "242": {
+        "Name": "Kelly Green",
+        "RGB": [
+            71,
+            167,
+            47
+        ],
+        "DMC": 702,
+        "Anchor": 226
+    },
+    "243": {
+        "Name": "Green Light",
+        "RGB": [
+            63,
+            143,
+            41
+        ],
+        "DMC": 701,
+        "Anchor": 227
+    },
+    "244": {
+        "Name": "Green Bright",
+        "RGB": [
+            7,
+            115,
+            27
+        ],
+        "DMC": 700,
+        "Anchor": 228
+    },
+    "245": {
+        "Name": "Green",
+        "RGB": [
+            5,
+            101,
+            23
+        ],
+        "DMC": 699,
+        "Anchor": 923
+    },
+    "246": {
+        "Name": "Parrot Green Light",
+        "RGB": [
+            199,
+            230,
+            102
+        ],
+        "DMC": 907,
+        "Anchor": 255
+    },
+    "247": {
+        "Name": "Parrot Green Medium",
+        "RGB": [
+            127,
+            179,
+            53
+        ],
+        "DMC": 906,
+        "Anchor": 256
+    },
+    "248": {
+        "Name": "Parrot Green Dark",
+        "RGB": [
+            98,
+            138,
+            40
+        ],
+        "DMC": 905,
+        "Anchor": 257
+    },
+    "249": {
+        "Name": "Parrot Green Very Dark",
+        "RGB": [
+            85,
+            120,
+            34
+        ],
+        "DMC": 904,
+        "Anchor": 258
+    },
+    "250": {
+        "Name": "Avocado Green Ultra Light",
+        "RGB": [
+            216,
+            228,
+            152
+        ],
+        "DMC": 472,
+        "Anchor": 253
+    },
+    "251": {
+        "Name": "Avocado Grn Very Light",
+        "RGB": [
+            174,
+            191,
+            121
+        ],
+        "DMC": 471,
+        "Anchor": 266
+    },
+    "252": {
+        "Name": "Avocado Grn Light",
+        "RGB": [
+            148,
+            171,
+            79
+        ],
+        "DMC": 470,
+        "Anchor": 267
+    },
+    "253": {
+        "Name": "Avocado Green",
+        "RGB": [
+            114,
+            132,
+            60
+        ],
+        "DMC": 469,
+        "Anchor": 267
+    },
+    "254": {
+        "Name": "Avocado Green Medium",
+        "RGB": [
+            98,
+            113,
+            51
+        ],
+        "DMC": 937,
+        "Anchor": 268
+    },
+    "255": {
+        "Name": "Avocado Green Very Dark",
+        "RGB": [
+            76,
+            88,
+            38
+        ],
+        "DMC": 936,
+        "Anchor": 846
+    },
+    "256": {
+        "Name": "Avocado Green Dark",
+        "RGB": [
+            66,
+            77,
+            33
+        ],
+        "DMC": 935,
+        "Anchor": 861
+    },
+    "257": {
+        "Name": "Avocado Grn Black",
+        "RGB": [
+            49,
+            57,
+            25
+        ],
+        "DMC": 934,
+        "Anchor": 862
+    },
+    "258": {
+        "Name": "Fern Green Light",
+        "RGB": [
+            171,
+            177,
+            151
+        ],
+        "DMC": 523,
+        "Anchor": 859
+    },
+    "259": {
+        "Name": "Green Gray",
+        "RGB": [
+            156,
+            164,
+            130
+        ],
+        "DMC": 3053,
+        "Anchor": 843
+    },
+    "260": {
+        "Name": "Green Gray Medium",
+        "RGB": [
+            136,
+            146,
+            104
+        ],
+        "DMC": 3052,
+        "Anchor": 844
+    },
+    "261": {
+        "Name": "Green Gray Dark",
+        "RGB": [
+            95,
+            102,
+            72
+        ],
+        "DMC": 3051,
+        "Anchor": 845
+    },
+    "262": {
+        "Name": "Fern Green Very Light",
+        "RGB": [
+            196,
+            205,
+            172
+        ],
+        "DMC": 524,
+        "Anchor": 858
+    },
+    "263": {
+        "Name": "Fern Green",
+        "RGB": [
+            150,
+            158,
+            126
+        ],
+        "DMC": 522,
+        "Anchor": 860
+    },
+    "264": {
+        "Name": "Fern Green Dark",
+        "RGB": [
+            102,
+            109,
+            79
+        ],
+        "DMC": 520,
+        "Anchor": 862
+    },
+    "265": {
+        "Name": "Pine Green",
+        "RGB": [
+            131,
+            151,
+            95
+        ],
+        "DMC": 3364,
+        "Anchor": 260
+    },
+    "266": {
+        "Name": "Pine Green Medium",
+        "RGB": [
+            114,
+            130,
+            86
+        ],
+        "DMC": 3363,
+        "Anchor": 262
+    },
+    "267": {
+        "Name": "Pine Green Dark",
+        "RGB": [
+            94,
+            107,
+            71
+        ],
+        "DMC": 3362,
+        "Anchor": 263
+    },
+    "268": {
+        "Name": "Moss Green Very Light",
+        "RGB": [
+            239,
+            244,
+            164
+        ],
+        "DMC": 165,
+        "Anchor": 253
+    },
+    "269": {
+        "Name": "Moss Green Light",
+        "RGB": [
+            224,
+            232,
+            104
+        ],
+        "DMC": 3819,
+        "Anchor": 278
+    },
+    "270": {
+        "Name": "Moss Green Medium Light",
+        "RGB": [
+            192,
+            200,
+            64
+        ],
+        "DMC": 166,
+        "Anchor": 280
+    },
+    "271": {
+        "Name": "Moss Green",
+        "RGB": [
+            167,
+            174,
+            56
+        ],
+        "DMC": 581,
+        "Anchor": 280
+    },
+    "272": {
+        "Name": "Moss Green Dark",
+        "RGB": [
+            136,
+            141,
+            51
+        ],
+        "DMC": 580,
+        "Anchor": 281
+    },
+    "273": {
+        "Name": "Olive Green Light",
+        "RGB": [
+            199,
+            192,
+            119
+        ],
+        "DMC": 734,
+        "Anchor": 279
+    },
+    "274": {
+        "Name": "Olive Green Medium",
+        "RGB": [
+            188,
+            179,
+            76
+        ],
+        "DMC": 733,
+        "Anchor": 280
+    },
+    "275": {
+        "Name": "Olive Green",
+        "RGB": [
+            148,
+            140,
+            54
+        ],
+        "DMC": 732,
+        "Anchor": 281
+    },
+    "276": {
+        "Name": "Olive Green Dark",
+        "RGB": [
+            147,
+            139,
+            55
+        ],
+        "DMC": 731,
+        "Anchor": 924
+    },
+    "277": {
+        "Name": "Olive Green Very Dark",
+        "RGB": [
+            130,
+            123,
+            48
+        ],
+        "DMC": 730,
+        "Anchor": 845
+    },
+    "278": {
+        "Name": "Khaki Green Light",
+        "RGB": [
+            185,
+            185,
+            130
+        ],
+        "DMC": 3013,
+        "Anchor": 853
+    },
+    "279": {
+        "Name": "Khaki Green Medium",
+        "RGB": [
+            166,
+            167,
+            93
+        ],
+        "DMC": 3012,
+        "Anchor": 855
+    },
+    "280": {
+        "Name": "Khaki Green Dark",
+        "RGB": [
+            137,
+            138,
+            88
+        ],
+        "DMC": 3011,
+        "Anchor": 856
+    },
+    "281": {
+        "Name": "Mustard Light",
+        "RGB": [
+            204,
+            183,
+            132
+        ],
+        "DMC": 372,
+        "Anchor": 887
+    },
+    "282": {
+        "Name": "Mustard",
+        "RGB": [
+            191,
+            166,
+            113
+        ],
+        "DMC": 371,
+        "Anchor": 887
+    },
+    "283": {
+        "Name": "Mustard Medium",
+        "RGB": [
+            184,
+            157,
+            100
+        ],
+        "DMC": 370,
+        "Anchor": 888
+    },
+    "284": {
+        "Name": "Golden Olive Very Light",
+        "RGB": [
+            219,
+            190,
+            127
+        ],
+        "DMC": 834,
+        "Anchor": 874
+    },
+    "285": {
+        "Name": "Golden Olive Light",
+        "RGB": [
+            200,
+            171,
+            108
+        ],
+        "DMC": 833,
+        "Anchor": 907
+    },
+    "286": {
+        "Name": "Golden Olive",
+        "RGB": [
+            189,
+            155,
+            81
+        ],
+        "DMC": 832,
+        "Anchor": 907
+    },
+    "287": {
+        "Name": "Golden Olive Medium",
+        "RGB": [
+            170,
+            143,
+            86
+        ],
+        "DMC": 831,
+        "Anchor": 277
+    },
+    "288": {
+        "Name": "Golden Olive Dark",
+        "RGB": [
+            141,
+            120,
+            75
+        ],
+        "DMC": 830,
+        "Anchor": 277
+    },
+    "289": {
+        "Name": "Golden Olive Very Dark",
+        "RGB": [
+            126,
+            107,
+            66
+        ],
+        "DMC": 829,
+        "Anchor": 906
+    },
+    "290": {
+        "Name": "Drab Brown Very Light",
+        "RGB": [
+            220,
+            196,
+            170
+        ],
+        "DMC": 613,
+        "Anchor": 831
+    },
+    "291": {
+        "Name": "Drab Brown Light",
+        "RGB": [
+            188,
+            154,
+            120
+        ],
+        "DMC": 612,
+        "Anchor": 832
+    },
+    "292": {
+        "Name": "Drab Brown",
+        "RGB": [
+            150,
+            118,
+            86
+        ],
+        "DMC": 611,
+        "Anchor": 898
+    },
+    "293": {
+        "Name": "Drab Brown Dark",
+        "RGB": [
+            121,
+            96,
+            71
+        ],
+        "DMC": 610,
+        "Anchor": 889
+    },
+    "294": {
+        "Name": "Yellow Beige Light",
+        "RGB": [
+            231,
+            214,
+            193
+        ],
+        "DMC": 3047,
+        "Anchor": 852
+    },
+    "295": {
+        "Name": "Yellow Beige Medium",
+        "RGB": [
+            216,
+            188,
+            154
+        ],
+        "DMC": 3046,
+        "Anchor": 887
+    },
+    "296": {
+        "Name": "Yellow Beige Dark",
+        "RGB": [
+            188,
+            150,
+            106
+        ],
+        "DMC": 3045,
+        "Anchor": 888
+    },
+    "297": {
+        "Name": "Yellow Beige Very Dark",
+        "RGB": [
+            167,
+            124,
+            73
+        ],
+        "DMC": 167,
+        "Anchor": 1049
+    },
+    "298": {
+        "Name": "Off White",
+        "RGB": [
+            252,
+            252,
+            238
+        ],
+        "DMC": 746,
+        "Anchor": 275
+    },
+    "299": {
+        "Name": "Old Gold Very Light",
+        "RGB": [
+            245,
+            236,
+            203
+        ],
+        "DMC": 677,
+        "Anchor": 361
+    },
+    "300": {
+        "Name": "Hazelnut Brown Light",
+        "RGB": [
+            198,
+            159,
+            123
+        ],
+        "DMC": 422,
+        "Anchor": 372
+    },
+    "301": {
+        "Name": "Hazelnut Brown",
+        "RGB": [
+            183,
+            139,
+            97
+        ],
+        "DMC": 3828,
+        "Anchor": 373
+    },
+    "302": {
+        "Name": "Hazelnut Brown Dark",
+        "RGB": [
+            160,
+            112,
+            66
+        ],
+        "DMC": 420,
+        "Anchor": 374
+    },
+    "303": {
+        "Name": "Hazelnut Brown Very Dark",
+        "RGB": [
+            131,
+            94,
+            57
+        ],
+        "DMC": 869,
+        "Anchor": 944
+    },
+    "304": {
+        "Name": "Topaz",
+        "RGB": [
+            228,
+            180,
+            104
+        ],
+        "DMC": 728,
+        "Anchor": 306
+    },
+    "305": {
+        "Name": "Topaz Medium",
+        "RGB": [
+            206,
+            145,
+            36
+        ],
+        "DMC": 783,
+        "Anchor": 307
+    },
+    "306": {
+        "Name": "Topaz Dark",
+        "RGB": [
+            174,
+            119,
+            32
+        ],
+        "DMC": 782,
+        "Anchor": 308
+    },
+    "307": {
+        "Name": "Topaz Very Dark",
+        "RGB": [
+            162,
+            109,
+            32
+        ],
+        "DMC": 781,
+        "Anchor": 308
+    },
+    "308": {
+        "Name": "Topaz Ultra Very Dark",
+        "RGB": [
+            148,
+            99,
+            26
+        ],
+        "DMC": 780,
+        "Anchor": 309
+    },
+    "309": {
+        "Name": "Old Gold Light",
+        "RGB": [
+            229,
+            206,
+            151
+        ],
+        "DMC": 676,
+        "Anchor": 891
+    },
+    "310": {
+        "Name": "Old Gold Medium",
+        "RGB": [
+            208,
+            165,
+            62
+        ],
+        "DMC": 729,
+        "Anchor": 890
+    },
+    "311": {
+        "Name": "Old Gold Dark",
+        "RGB": [
+            188,
+            141,
+            14
+        ],
+        "DMC": 680,
+        "Anchor": 901
+    },
+    "312": {
+        "Name": "Old Gold Vy Dark",
+        "RGB": [
+            169,
+            130,
+            4
+        ],
+        "DMC": 3829,
+        "Anchor": 901
+    },
+    "313": {
+        "Name": "Straw Light",
+        "RGB": [
+            246,
+            220,
+            152
+        ],
+        "DMC": 3822,
+        "Anchor": 295
+    },
+    "314": {
+        "Name": "Straw",
+        "RGB": [
+            243,
+            206,
+            117
+        ],
+        "DMC": 3821,
+        "Anchor": 305
+    },
+    "315": {
+        "Name": "Straw Dark",
+        "RGB": [
+            223,
+            182,
+            95
+        ],
+        "DMC": 3820,
+        "Anchor": 306
+    },
+    "316": {
+        "Name": "Straw Very Dark",
+        "RGB": [
+            205,
+            157,
+            55
+        ],
+        "DMC": 3852,
+        "Anchor": 890
+    },
+    "317": {
+        "Name": "Lemon Light",
+        "RGB": [
+            255,
+            251,
+            139
+        ],
+        "DMC": 445,
+        "Anchor": 288
+    },
+    "318": {
+        "Name": "Lemon",
+        "RGB": [
+            253,
+            237,
+            84
+        ],
+        "DMC": 307,
+        "Anchor": 289
+    },
+    "319": {
+        "Name": "Canary Bright",
+        "RGB": [
+            255,
+            227,
+            0
+        ],
+        "DMC": 973,
+        "Anchor": 297
+    },
+    "320": {
+        "Name": "Lemon Dark",
+        "RGB": [
+            255,
+            214,
+            0
+        ],
+        "DMC": 444,
+        "Anchor": 291
+    },
+    "321": {
+        "Name": "Golden Yellow Very Light",
+        "RGB": [
+            253,
+            249,
+            205
+        ],
+        "DMC": 3078,
+        "Anchor": 292
+    },
+    "322": {
+        "Name": "Topaz Very Light",
+        "RGB": [
+            255,
+            241,
+            175
+        ],
+        "DMC": 727,
+        "Anchor": 293
+    },
+    "323": {
+        "Name": "Topaz Light",
+        "RGB": [
+            253,
+            215,
+            85
+        ],
+        "DMC": 726,
+        "Anchor": 291
+    },
+    "324": {
+        "Name": "Topaz Medium Light",
+        "RGB": [
+            255,
+            200,
+            64
+        ],
+        "DMC": 725,
+        "Anchor": 305
+    },
+    "325": {
+        "Name": "Canary Deep",
+        "RGB": [
+            255,
+            181,
+            21
+        ],
+        "DMC": 972,
+        "Anchor": 298
+    },
+    "326": {
+        "Name": "Yellow Pale Light",
+        "RGB": [
+            255,
+            233,
+            173
+        ],
+        "DMC": 745,
+        "Anchor": 300
+    },
+    "327": {
+        "Name": "Yellow Pale",
+        "RGB": [
+            255,
+            231,
+            147
+        ],
+        "DMC": 744,
+        "Anchor": 301
+    },
+    "328": {
+        "Name": "Yellow Medium",
+        "RGB": [
+            254,
+            211,
+            118
+        ],
+        "DMC": 743,
+        "Anchor": 302
+    },
+    "329": {
+        "Name": "Tangerine Light",
+        "RGB": [
+            255,
+            191,
+            87
+        ],
+        "DMC": 742,
+        "Anchor": 303
+    },
+    "330": {
+        "Name": "Tangerine Medium",
+        "RGB": [
+            255,
+            163,
+            43
+        ],
+        "DMC": 741,
+        "Anchor": 304
+    },
+    "331": {
+        "Name": "Tangerine",
+        "RGB": [
+            255,
+            139,
+            0
+        ],
+        "DMC": 740,
+        "Anchor": 316
+    },
+    "332": {
+        "Name": "Pumpkin Light",
+        "RGB": [
+            247,
+            139,
+            19
+        ],
+        "DMC": 970,
+        "Anchor": 925
+    },
+    "333": {
+        "Name": "Pumpkin",
+        "RGB": [
+            246,
+            127,
+            0
+        ],
+        "DMC": 971,
+        "Anchor": 316
+    },
+    "334": {
+        "Name": "Burnt Orange",
+        "RGB": [
+            255,
+            123,
+            77
+        ],
+        "DMC": 947,
+        "Anchor": 330
+    },
+    "335": {
+        "Name": "Burnt Orange Medium",
+        "RGB": [
+            235,
+            99,
+            7
+        ],
+        "DMC": 946,
+        "Anchor": 332
+    },
+    "336": {
+        "Name": "Burnt Orange Dark",
+        "RGB": [
+            209,
+            88,
+            7
+        ],
+        "DMC": 900,
+        "Anchor": 333
+    },
+    "337": {
+        "Name": "Apricot Very Light",
+        "RGB": [
+            255,
+            222,
+            213
+        ],
+        "DMC": 967,
+        "Anchor": 23
+    },
+    "338": {
+        "Name": "Apricot Light",
+        "RGB": [
+            254,
+            205,
+            194
+        ],
+        "DMC": 3824,
+        "Anchor": 8
+    },
+    "339": {
+        "Name": "Apricot",
+        "RGB": [
+            252,
+            171,
+            152
+        ],
+        "DMC": 3341,
+        "Anchor": 328
+    },
+    "340": {
+        "Name": "Apricot Medium",
+        "RGB": [
+            255,
+            131,
+            111
+        ],
+        "DMC": 3340,
+        "Anchor": 329
+    },
+    "341": {
+        "Name": "Burnt Orange Bright",
+        "RGB": [
+            253,
+            93,
+            53
+        ],
+        "DMC": 608,
+        "Anchor": 330
+    },
+    "342": {
+        "Name": "Orange Red Bright",
+        "RGB": [
+            250,
+            50,
+            3
+        ],
+        "DMC": 606,
+        "Anchor": 334
+    },
+    "343": {
+        "Name": "Tawny Light",
+        "RGB": [
+            255,
+            226,
+            207
+        ],
+        "DMC": 951,
+        "Anchor": 1010
+    },
+    "344": {
+        "Name": "Mahogany Ultra Very Light",
+        "RGB": [
+            255,
+            211,
+            181
+        ],
+        "DMC": 3856,
+        "Anchor": 1010
+    },
+    "345": {
+        "Name": "Orange Spice Light",
+        "RGB": [
+            247,
+            151,
+            111
+        ],
+        "DMC": 722,
+        "Anchor": 323
+    },
+    "346": {
+        "Name": "Orange Spice Medium",
+        "RGB": [
+            242,
+            120,
+            66
+        ],
+        "DMC": 721,
+        "Anchor": 925
+    },
+    "347": {
+        "Name": "Orange Spice Dark",
+        "RGB": [
+            229,
+            92,
+            31
+        ],
+        "DMC": 720,
+        "Anchor": 326
+    },
+    "348": {
+        "Name": "Pumpkin Pale",
+        "RGB": [
+            253,
+            189,
+            150
+        ],
+        "DMC": 3825,
+        "Anchor": 323
+    },
+    "349": {
+        "Name": "Copper Light",
+        "RGB": [
+            226,
+            115,
+            35
+        ],
+        "DMC": 922,
+        "Anchor": 1003
+    },
+    "350": {
+        "Name": "Copper",
+        "RGB": [
+            198,
+            98,
+            24
+        ],
+        "DMC": 921,
+        "Anchor": 1003
+    },
+    "351": {
+        "Name": "Copper Medium",
+        "RGB": [
+            172,
+            84,
+            20
+        ],
+        "DMC": 920,
+        "Anchor": 1004
+    },
+    "352": {
+        "Name": "Red Copper",
+        "RGB": [
+            166,
+            69,
+            16
+        ],
+        "DMC": 919,
+        "Anchor": 340
+    },
+    "353": {
+        "Name": "Red Copper Dark",
+        "RGB": [
+            130,
+            52,
+            10
+        ],
+        "DMC": 918,
+        "Anchor": 341
+    },
+    "354": {
+        "Name": "Tawny Vy Light",
+        "RGB": [
+            255,
+            238,
+            227
+        ],
+        "DMC": 3770,
+        "Anchor": 1009
+    },
+    "355": {
+        "Name": "Tawny",
+        "RGB": [
+            251,
+            213,
+            187
+        ],
+        "DMC": 945,
+        "Anchor": 881
+    },
+    "356": {
+        "Name": "Mahogany Very Light",
+        "RGB": [
+            247,
+            167,
+            119
+        ],
+        "DMC": 402,
+        "Anchor": 1047
+    },
+    "357": {
+        "Name": "Mahogany Light",
+        "RGB": [
+            207,
+            121,
+            57
+        ],
+        "DMC": 3776,
+        "Anchor": 1048
+    },
+    "358": {
+        "Name": "Mahogany Medium",
+        "RGB": [
+            179,
+            95,
+            43
+        ],
+        "DMC": 301,
+        "Anchor": 1049
+    },
+    "359": {
+        "Name": "Mahogany Dark",
+        "RGB": [
+            143,
+            67,
+            15
+        ],
+        "DMC": 400,
+        "Anchor": 351
+    },
+    "360": {
+        "Name": "Mahogany Very Dark",
+        "RGB": [
+            111,
+            47,
+            0
+        ],
+        "DMC": 300,
+        "Anchor": 352
+    },
+    "361": {
+        "Name": "Yellow Ultra Pale",
+        "RGB": [
+            255,
+            253,
+            227
+        ],
+        "DMC": 3823,
+        "Anchor": 386
+    },
+    "362": {
+        "Name": "Autumn Gold Light",
+        "RGB": [
+            250,
+            211,
+            150
+        ],
+        "DMC": 3855,
+        "Anchor": 311
+    },
+    "363": {
+        "Name": "Autumn Gold Medium",
+        "RGB": [
+            242,
+            175,
+            104
+        ],
+        "DMC": 3854,
+        "Anchor": 313
+    },
+    "364": {
+        "Name": "Autumn Gold Dark",
+        "RGB": [
+            242,
+            151,
+            70
+        ],
+        "DMC": 3853,
+        "Anchor": 1003
+    },
+    "365": {
+        "Name": "Golden Brown Pale",
+        "RGB": [
+            247,
+            187,
+            119
+        ],
+        "DMC": 3827,
+        "Anchor": 311
+    },
+    "366": {
+        "Name": "Golden Brown Light",
+        "RGB": [
+            220,
+            156,
+            86
+        ],
+        "DMC": 977,
+        "Anchor": 1002
+    },
+    "367": {
+        "Name": "Golden Brown Medium",
+        "RGB": [
+            194,
+            129,
+            66
+        ],
+        "DMC": 976,
+        "Anchor": 1001
+    },
+    "368": {
+        "Name": "Golden Brown",
+        "RGB": [
+            173,
+            114,
+            57
+        ],
+        "DMC": 3826,
+        "Anchor": 1049
+    },
+    "369": {
+        "Name": "Golden Brown Dark",
+        "RGB": [
+            145,
+            79,
+            18
+        ],
+        "DMC": 975,
+        "Anchor": 355
+    },
+    "370": {
+        "Name": "Peach Very Light",
+        "RGB": [
+            254,
+            231,
+            218
+        ],
+        "DMC": 948,
+        "Anchor": 1011
+    },
+    "371": {
+        "Name": "Peach Light",
+        "RGB": [
+            247,
+            203,
+            191
+        ],
+        "DMC": 754,
+        "Anchor": 1012
+    },
+    "372": {
+        "Name": "Terra Cotta Ultra Very Light",
+        "RGB": [
+            244,
+            187,
+            169
+        ],
+        "DMC": 3771,
+        "Anchor": 868
+    },
+    "373": {
+        "Name": "Terra Cotta Very Light",
+        "RGB": [
+            238,
+            170,
+            155
+        ],
+        "DMC": 758,
+        "Anchor": 868
+    },
+    "374": {
+        "Name": "Terra Cotta Light",
+        "RGB": [
+            217,
+            137,
+            120
+        ],
+        "DMC": 3778,
+        "Anchor": 1013
+    },
+    "375": {
+        "Name": "Terra Cotta Medium",
+        "RGB": [
+            197,
+            106,
+            91
+        ],
+        "DMC": 356,
+        "Anchor": 1027
+    },
+    "376": {
+        "Name": "Terra Cotta",
+        "RGB": [
+            188,
+            85,
+            68
+        ],
+        "DMC": 3830,
+        "Anchor": 5975
+    },
+    "377": {
+        "Name": "Terra Cotta Dark",
+        "RGB": [
+            152,
+            68,
+            54
+        ],
+        "DMC": 355,
+        "Anchor": 1014
+    },
+    "378": {
+        "Name": "Terra Cotta Very Dark",
+        "RGB": [
+            134,
+            48,
+            34
+        ],
+        "DMC": 3777,
+        "Anchor": 1015
+    },
+    "379": {
+        "Name": "Rosewood Ultra Very Light",
+        "RGB": [
+            248,
+            202,
+            200
+        ],
+        "DMC": 3779,
+        "Anchor": 868
+    },
+    "380": {
+        "Name": "Rosewood Light",
+        "RGB": [
+            186,
+            139,
+            124
+        ],
+        "DMC": 3859,
+        "Anchor": 914
+    },
+    "381": {
+        "Name": "Rosewood Medium",
+        "RGB": [
+            150,
+            74,
+            63
+        ],
+        "DMC": 3858,
+        "Anchor": 1007
+    },
+    "382": {
+        "Name": "Rosewood Dark",
+        "RGB": [
+            104,
+            37,
+            26
+        ],
+        "DMC": 3857,
+        "Anchor": 936
+    },
+    "383": {
+        "Name": "Desert Sand Very Light",
+        "RGB": [
+            243,
+            225,
+            215
+        ],
+        "DMC": 3774,
+        "Anchor": 778
+    },
+    "384": {
+        "Name": "Desert Sand Light",
+        "RGB": [
+            238,
+            211,
+            196
+        ],
+        "DMC": 950,
+        "Anchor": 4146
+    },
+    "385": {
+        "Name": "Desert Sand",
+        "RGB": [
+            196,
+            142,
+            112
+        ],
+        "DMC": 3064,
+        "Anchor": 883
+    },
+    "386": {
+        "Name": "Desert Sand Medium",
+        "RGB": [
+            187,
+            129,
+            97
+        ],
+        "DMC": 407,
+        "Anchor": 914
+    },
+    "387": {
+        "Name": "Desert Sand Dark",
+        "RGB": [
+            182,
+            117,
+            82
+        ],
+        "DMC": 3773,
+        "Anchor": 1008
+    },
+    "388": {
+        "Name": "Desert Sand Very Dark",
+        "RGB": [
+            160,
+            108,
+            80
+        ],
+        "DMC": 3772,
+        "Anchor": 1007
+    },
+    "389": {
+        "Name": "Desert Sand Ultra Very Dark",
+        "RGB": [
+            135,
+            85,
+            57
+        ],
+        "DMC": 632,
+        "Anchor": 936
+    },
+    "390": {
+        "Name": "Shell Gray Light",
+        "RGB": [
+            215,
+            206,
+            203
+        ],
+        "DMC": 453,
+        "Anchor": 231
+    },
+    "391": {
+        "Name": "Shell Gray Medium",
+        "RGB": [
+            192,
+            179,
+            174
+        ],
+        "DMC": 452,
+        "Anchor": 232
+    },
+    "392": {
+        "Name": "Shell Gray Dark",
+        "RGB": [
+            145,
+            123,
+            115
+        ],
+        "DMC": 451,
+        "Anchor": 233
+    },
+    "393": {
+        "Name": "Cocoa Light",
+        "RGB": [
+            166,
+            136,
+            129
+        ],
+        "DMC": 3861,
+        "Anchor": 378
+    },
+    "394": {
+        "Name": "Cocoa",
+        "RGB": [
+            125,
+            93,
+            87
+        ],
+        "DMC": 3860,
+        "Anchor": 379
+    },
+    "395": {
+        "Name": "Cocoa Dark",
+        "RGB": [
+            98,
+            75,
+            69
+        ],
+        "DMC": 779,
+        "Anchor": 1050
+    },
+    "396": {
+        "Name": "Cream",
+        "RGB": [
+            255,
+            251,
+            239
+        ],
+        "DMC": 712,
+        "Anchor": 926
+    },
+    "397": {
+        "Name": "Tan Ultra Very Light",
+        "RGB": [
+            248,
+            228,
+            200
+        ],
+        "DMC": 739,
+        "Anchor": 387
+    },
+    "398": {
+        "Name": "Tan Very Light",
+        "RGB": [
+            236,
+            204,
+            158
+        ],
+        "DMC": 738,
+        "Anchor": 361
+    },
+    "399": {
+        "Name": "Tan Light",
+        "RGB": [
+            228,
+            187,
+            142
+        ],
+        "DMC": 437,
+        "Anchor": 362
+    },
+    "400": {
+        "Name": "Tan",
+        "RGB": [
+            203,
+            144,
+            81
+        ],
+        "DMC": 436,
+        "Anchor": 363
+    },
+    "401": {
+        "Name": "Brown Very Light",
+        "RGB": [
+            184,
+            119,
+            72
+        ],
+        "DMC": 435,
+        "Anchor": 365
+    },
+    "402": {
+        "Name": "Brown Light",
+        "RGB": [
+            152,
+            94,
+            51
+        ],
+        "DMC": 434,
+        "Anchor": 310
+    },
+    "403": {
+        "Name": "Brown Medium",
+        "RGB": [
+            122,
+            69,
+            31
+        ],
+        "DMC": 433,
+        "Anchor": 358
+    },
+    "404": {
+        "Name": "Coffee Brown Dark",
+        "RGB": [
+            101,
+            57,
+            25
+        ],
+        "DMC": 801,
+        "Anchor": 359
+    },
+    "405": {
+        "Name": "Coffee Brown Very Dark",
+        "RGB": [
+            73,
+            42,
+            19
+        ],
+        "DMC": 898,
+        "Anchor": 360
+    },
+    "406": {
+        "Name": "Coffee Brown Ultra Dark",
+        "RGB": [
+            54,
+            31,
+            14
+        ],
+        "DMC": 938,
+        "Anchor": 381
+    },
+    "407": {
+        "Name": "Black Brown",
+        "RGB": [
+            30,
+            17,
+            8
+        ],
+        "DMC": 3371,
+        "Anchor": 382
+    },
+    "408": {
+        "Name": "Beige Brown Ultra Very Light",
+        "RGB": [
+            242,
+            227,
+            206
+        ],
+        "DMC": 543,
+        "Anchor": 933
+    },
+    "409": {
+        "Name": "Mocha Beige Light",
+        "RGB": [
+            203,
+            182,
+            156
+        ],
+        "DMC": 3864,
+        "Anchor": 376
+    },
+    "410": {
+        "Name": "Mocha Beige Medium",
+        "RGB": [
+            164,
+            131,
+            92
+        ],
+        "DMC": 3863,
+        "Anchor": 379
+    },
+    "411": {
+        "Name": "Mocha Beige Dark",
+        "RGB": [
+            138,
+            110,
+            78
+        ],
+        "DMC": 3862,
+        "Anchor": 358
+    },
+    "412": {
+        "Name": "Mocha Brown Very Dark",
+        "RGB": [
+            75,
+            60,
+            42
+        ],
+        "DMC": 3031,
+        "Anchor": 905
+    },
+    "413": {
+        "Name": "Snow White",
+        "RGB": [
+            255,
+            255,
+            255
+        ],
+        "DMC": "B5200",
+        "Anchor": 1
+    },
+    "414": {
+        "Name": "White",
+        "RGB": [
+            252,
+            251,
+            248
+        ],
+        "DMC": "White",
+        "Anchor": 2
+    },
+    "415": {
+        "Name": "Winter White",
+        "RGB": [
+            249,
+            247,
+            241
+        ],
+        "DMC": 3865,
+        "Anchor": 2
+    },
+    "416": {
+        "Name": "Ecru",
+        "RGB": [
+            240,
+            234,
+            218
+        ],
+        "DMC": "Ecru",
+        "Anchor": 387
+    },
+    "417": {
+        "Name": "Beige Gray Light",
+        "RGB": [
+            231,
+            226,
+            211
+        ],
+        "DMC": 822,
+        "Anchor": 390
+    },
+    "418": {
+        "Name": "Beige Gray Medium",
+        "RGB": [
+            221,
+            216,
+            203
+        ],
+        "DMC": 644,
+        "Anchor": 391
+    },
+    "419": {
+        "Name": "Beige Gray Dark",
+        "RGB": [
+            164,
+            152,
+            120
+        ],
+        "DMC": 642,
+        "Anchor": 392
+    },
+    "420": {
+        "Name": "Beige Gray Very Dark",
+        "RGB": [
+            133,
+            123,
+            97
+        ],
+        "DMC": 640,
+        "Anchor": 393
+    },
+    "421": {
+        "Name": "Brown Gray Dark",
+        "RGB": [
+            98,
+            93,
+            80
+        ],
+        "DMC": 3787,
+        "Anchor": 904
+    },
+    "422": {
+        "Name": "Brown Gray Very Dark",
+        "RGB": [
+            79,
+            75,
+            65
+        ],
+        "DMC": 3021,
+        "Anchor": 905
+    },
+    "423": {
+        "Name": "Brown Gray Very Light",
+        "RGB": [
+            235,
+            234,
+            231
+        ],
+        "DMC": 3024,
+        "Anchor": 388
+    },
+    "424": {
+        "Name": "Brown Gray Light",
+        "RGB": [
+            177,
+            170,
+            151
+        ],
+        "DMC": 3023,
+        "Anchor": 899
+    },
+    "425": {
+        "Name": "Brown Gray Medium",
+        "RGB": [
+            142,
+            144,
+            120
+        ],
+        "DMC": 3022,
+        "Anchor": 8581
+    },
+    "426": {
+        "Name": "Ash Gray Very Light",
+        "RGB": [
+            99,
+            100,
+            88
+        ],
+        "DMC": 535,
+        "Anchor": 401
+    },
+    "427": {
+        "Name": "Mocha Brown Very Light",
+        "RGB": [
+            227,
+            216,
+            204
+        ],
+        "DMC": 3033,
+        "Anchor": 387
+    },
+    "428": {
+        "Name": "Mocha Brown Light",
+        "RGB": [
+            210,
+            188,
+            166
+        ],
+        "DMC": 3782,
+        "Anchor": 831
+    },
+    "429": {
+        "Name": "Mocha Brown Medium",
+        "RGB": [
+            179,
+            159,
+            139
+        ],
+        "DMC": 3032,
+        "Anchor": 898
+    },
+    "430": {
+        "Name": "Beige Gray Ultra Dark",
+        "RGB": [
+            127,
+            106,
+            85
+        ],
+        "DMC": 3790,
+        "Anchor": 904
+    },
+    "431": {
+        "Name": "Mocha Brown Dark",
+        "RGB": [
+            107,
+            87,
+            67
+        ],
+        "DMC": 3781,
+        "Anchor": 1050
+    },
+    "432": {
+        "Name": "Mocha Brown Ultra Very Light",
+        "RGB": [
+            250,
+            246,
+            240
+        ],
+        "DMC": 3866,
+        "Anchor": 926
+    },
+    "433": {
+        "Name": "Beige Brown Very Light",
+        "RGB": [
+            209,
+            186,
+            161
+        ],
+        "DMC": 842,
+        "Anchor": 1080
+    },
+    "434": {
+        "Name": "Beige Brown Light",
+        "RGB": [
+            182,
+            155,
+            126
+        ],
+        "DMC": 841,
+        "Anchor": 1082
+    },
+    "435": {
+        "Name": "Beige Brown Medium",
+        "RGB": [
+            154,
+            124,
+            92
+        ],
+        "DMC": 840,
+        "Anchor": 1084
+    },
+    "436": {
+        "Name": "Beige Brown Dark",
+        "RGB": [
+            103,
+            85,
+            65
+        ],
+        "DMC": 839,
+        "Anchor": 1086
+    },
+    "437": {
+        "Name": "Beige Brown Very Dark",
+        "RGB": [
+            89,
+            73,
+            55
+        ],
+        "DMC": 838,
+        "Anchor": 1088
+    },
+    "438": {
+        "Name": "Beaver Gray Very Light",
+        "RGB": [
+            230,
+            232,
+            232
+        ],
+        "DMC": 3072,
+        "Anchor": 397
+    },
+    "439": {
+        "Name": "Beaver Gray Light",
+        "RGB": [
+            188,
+            180,
+            172
+        ],
+        "DMC": 648,
+        "Anchor": 900
+    },
+    "440": {
+        "Name": "Beaver Gray Medium",
+        "RGB": [
+            176,
+            166,
+            156
+        ],
+        "DMC": 647,
+        "Anchor": 1040
+    },
+    "441": {
+        "Name": "Beaver Gray Dark",
+        "RGB": [
+            135,
+            125,
+            115
+        ],
+        "DMC": 646,
+        "Anchor": 8581
+    },
+    "442": {
+        "Name": "Beaver Gray Very Dark",
+        "RGB": [
+            110,
+            101,
+            92
+        ],
+        "DMC": 645,
+        "Anchor": 273
+    },
+    "443": {
+        "Name": "Beaver Gray Ultra Dark",
+        "RGB": [
+            72,
+            72,
+            72
+        ],
+        "DMC": 844,
+        "Anchor": 1041
+    },
+    "444": {
+        "Name": "Pearl Gray Very Light",
+        "RGB": [
+            236,
+            236,
+            236
+        ],
+        "DMC": 762,
+        "Anchor": 234
+    },
+    "445": {
+        "Name": "Pearl Gray",
+        "RGB": [
+            211,
+            211,
+            214
+        ],
+        "DMC": 415,
+        "Anchor": 389
+    },
+    "446": {
+        "Name": "Steel Gray Light",
+        "RGB": [
+            171,
+            171,
+            171
+        ],
+        "DMC": 318,
+        "Anchor": 399
+    },
+    "447": {
+        "Name": "Steel Gray Dark",
+        "RGB": [
+            140,
+            140,
+            140
+        ],
+        "DMC": 414,
+        "Anchor": 235
+    },
+    "448": {
+        "Name": "Pewter Very Light",
+        "RGB": [
+            209,
+            209,
+            209
+        ],
+        "DMC": 168,
+        "Anchor": 389
+    },
+    "449": {
+        "Name": "Pewter Light",
+        "RGB": [
+            132,
+            132,
+            132
+        ],
+        "DMC": 169,
+        "Anchor": 400
+    },
+    "450": {
+        "Name": "Pewter Gray",
+        "RGB": [
+            108,
+            108,
+            108
+        ],
+        "DMC": 317,
+        "Anchor": 400
+    },
+    "451": {
+        "Name": "Pewter Gray Dark",
+        "RGB": [
+            86,
+            86,
+            86
+        ],
+        "DMC": 413,
+        "Anchor": 236
+    },
+    "452": {
+        "Name": "Pewter Gray Very Dark",
+        "RGB": [
+            66,
+            66,
+            66
+        ],
+        "DMC": 3799,
+        "Anchor": 236
+    },
+    "453": {
+        "Name": "Black",
+        "RGB": [
+            0,
+            0,
+            0
+        ],
+        "DMC": 310,
+        "Anchor": 403
+    },
+    "454": {
+        "Name": "White Tin",
+        "RGB": [
+            227,
+            227,
+            230
+        ],
+        "DMC": 1,
+        "Anchor": 388
+    },
+    "455": {
+        "Name": "Tin",
+        "RGB": [
+            215,
+            215,
+            216
+        ],
+        "DMC": 2,
+        "Anchor": 389
+    },
+    "456": {
+        "Name": "Tin Medium",
+        "RGB": [
+            184,
+            184,
+            187
+        ],
+        "DMC": 3,
+        "Anchor": 399
+    },
+    "457": {
+        "Name": "Tin Dark",
+        "RGB": [
+            174,
+            174,
+            177
+        ],
+        "DMC": 4,
+        "Anchor": 399
+    },
+    "458": {
+        "Name": "Driftwood Light",
+        "RGB": [
+            227,
+            204,
+            190
+        ],
+        "DMC": 5,
+        "Anchor": 852
+    },
+    "459": {
+        "Name": "Driftwood Medium Light",
+        "RGB": [
+            220,
+            198,
+            184
+        ],
+        "DMC": 6,
+        "Anchor": 831
+    },
+    "460": {
+        "Name": "Driftwood",
+        "RGB": [
+            143,
+            123,
+            110
+        ],
+        "DMC": 7,
+        "Anchor": 233
+    },
+    "461": {
+        "Name": "Driftwood Dark",
+        "RGB": [
+            106,
+            80,
+            70
+        ],
+        "DMC": 8,
+        "Anchor": 1050
+    },
+    "462": {
+        "Name": "Cocoa Very Dark",
+        "RGB": [
+            85,
+            32,
+            20
+        ],
+        "DMC": 9,
+        "Anchor": 360
+    },
+    "463": {
+        "Name": "Tender Green Very Light",
+        "RGB": [
+            237,
+            254,
+            217
+        ],
+        "DMC": 10,
+        "Anchor": 259
+    },
+    "464": {
+        "Name": "Tender Green Light",
+        "RGB": [
+            226,
+            237,
+            181
+        ],
+        "DMC": 11,
+        "Anchor": 264
+    },
+    "465": {
+        "Name": "Tender Green",
+        "RGB": [
+            205,
+            217,
+            154
+        ],
+        "DMC": 12,
+        "Anchor": 253
+    },
+    "466": {
+        "Name": "Nile Green Medium Light",
+        "RGB": [
+            191,
+            246,
+            224
+        ],
+        "DMC": 13,
+        "Anchor": 185
+    },
+    "467": {
+        "Name": "Apple Green Pale",
+        "RGB": [
+            208,
+            251,
+            178
+        ],
+        "DMC": 14,
+        "Anchor": 266
+    },
+    "468": {
+        "Name": "Apple Green",
+        "RGB": [
+            209,
+            237,
+            164
+        ],
+        "DMC": 15,
+        "Anchor": 253
+    },
+    "469": {
+        "Name": "Chartreuse Light",
+        "RGB": [
+            201,
+            194,
+            88
+        ],
+        "DMC": 16,
+        "Anchor": 280
+    },
+    "470": {
+        "Name": "Yellow Plum Light",
+        "RGB": [
+            229,
+            226,
+            114
+        ],
+        "DMC": 17,
+        "Anchor": 278
+    },
+    "471": {
+        "Name": "Yellow Plum",
+        "RGB": [
+            217,
+            213,
+            109
+        ],
+        "DMC": 18,
+        "Anchor": 278
+    },
+    "472": {
+        "Name": "Autumn Gold medium Light",
+        "RGB": [
+            247,
+            201,
+            95
+        ],
+        "DMC": 19,
+        "Anchor": 295
+    },
+    "473": {
+        "Name": "Shrimp",
+        "RGB": [
+            247,
+            175,
+            147
+        ],
+        "DMC": 20,
+        "Anchor": 328
+    },
+    "474": {
+        "Name": "Alizarin Light",
+        "RGB": [
+            215,
+            153,
+            130
+        ],
+        "DMC": 21,
+        "Anchor": 1013
+    },
+    "475": {
+        "Name": "Alizarin",
+        "RGB": [
+            188,
+            96,
+            78
+        ],
+        "DMC": 22,
+        "Anchor": 1027
+    },
+    "476": {
+        "Name": "Apple Blossom",
+        "RGB": [
+            237,
+            226,
+            237
+        ],
+        "DMC": 23,
+        "Anchor": 342
+    },
+    "477": {
+        "Name": "White Lavender",
+        "RGB": [
+            224,
+            215,
+            238
+        ],
+        "DMC": 24,
+        "Anchor": 342
+    },
+    "478": {
+        "Name": "Lavender Ultra Light",
+        "RGB": [
+            218,
+            210,
+            233
+        ],
+        "DMC": 25,
+        "Anchor": 342
+    },
+    "479": {
+        "Name": "Lavender Pale",
+        "RGB": [
+            215,
+            202,
+            230
+        ],
+        "DMC": 26,
+        "Anchor": 342
+    },
+    "480": {
+        "Name": "White Violet",
+        "RGB": [
+            240,
+            238,
+            249
+        ],
+        "DMC": 27,
+        "Anchor": 342
+    },
+    "481": {
+        "Name": "Eggplant Medium Light",
+        "RGB": [
+            144,
+            134,
+            169
+        ],
+        "DMC": 28,
+        "Anchor": 118
+    },
+    "482": {
+        "Name": "Eggplant",
+        "RGB": [
+            103,
+            64,
+            118
+        ],
+        "DMC": 29,
+        "Anchor": 100
+    },
+    "483": {
+        "Name": "Blueberry Medium Light",
+        "RGB": [
+            125,
+            119,
+            165
+        ],
+        "DMC": 30,
+        "Anchor": 1030
+    },
+    "484": {
+        "Name": "Blueberry",
+        "RGB": [
+            80,
+            81,
+            141
+        ],
+        "DMC": 31,
+        "Anchor": 122
+    },
+    "485": {
+        "Name": "Blueberry Dark",
+        "RGB": [
+            77,
+            46,
+            138
+        ],
+        "DMC": 32,
+        "Anchor": 100
+    },
+    "486": {
+        "Name": "Fuschia",
+        "RGB": [
+            156,
+            89,
+            156
+        ],
+        "DMC": 33,
+        "Anchor": 110
+    },
+    "487": {
+        "Name": "Fuschia Dark",
+        "RGB": [
+            125,
+            48,
+            100
+        ],
+        "DMC": 34,
+        "Anchor": 99
+    },
+    "488": {
+        "Name": "Fuschia Very Dark",
+        "RGB": [
+            70,
+            5,
+            45
+        ],
+        "DMC": 35,
+        "Anchor": 102
+    }
+}
