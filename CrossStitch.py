@@ -4,7 +4,7 @@ import matplotlib.pyplot as plt
 import matplotlib.image as mpimg
 import cv2
 import json
-import sys
+import sys, os
 
 
 
@@ -92,8 +92,8 @@ class CrossStitch:
 
         fig, axs = plt.subplots(2, len(idxRef))
         for i, item in enumerate(idxRef):
-            imgAnchor = mpimg.imread(
-                    f'C:\\Users\\SENA\\Downloads\\color_ref\\Anchor\\Anchor-{self.colorRef[item]["Anchor"]}.jpg')
+            imgAnchor = mpimg.imread(f"/color_ref/Anchor/")
+                    # f'C:\\Users\\SENA\\Downloads\\color_ref\\Anchor\\Anchor-{self.colorRef[item]["Anchor"]}.jpg')
             imgDmc = mpimg.imread(
                     f'C:\\Users\\SENA\\Downloads\\color_ref\\DMC\\117mc_e_{self.colorRef[item]["DMC"]}_swatch_150x150.jpg')
 
@@ -106,6 +106,24 @@ class CrossStitch:
 
     def make_plots(self):
         pass
+
+
+
+
+# anchorFiles = os.listdir("color_ref/Anchor")
+# dmcFiles = os.listdir("color_ref/DMC")
+
+# for a in anchorFiles:
+#     anchor = a.replace("Anchor-", "anchor")
+#     # os.path.join("color_ref/Anchor", a)
+#     os.rename(os.path.join("color_ref/Anchor", a), os.path.join("color_ref/Anchor", anchor))
+
+# for d in dmcFiles:
+#     dmc = d.replace("117mc_e_", "dmc")
+#     dmc = dmc.replace("_swatch_150x150", "")
+#     os.rename(os.path.join("color_ref/DMC", d), os.path.join("color_ref/DMC", dmc))
+
+
 
 
 if __name__=="__main__":
