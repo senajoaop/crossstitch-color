@@ -6,6 +6,8 @@ import cv2
 import json
 import sys, os
 
+from sympy import O
+
 
 
 class CrossStitch:
@@ -88,17 +90,16 @@ class CrossStitch:
 
             idxRef.append(idxDict)
 
-        print(idxRef)
+        # imgsAnchor, imgsDmc = [], []
 
-        fig, axs = plt.subplots(2, len(idxRef))
+        # fig, axs = plt.subplots(2, len(idxRef))
         for i, item in enumerate(idxRef):
-            imgAnchor = mpimg.imread(f"/color_ref/Anchor/")
-                    # f'C:\\Users\\SENA\\Downloads\\color_ref\\Anchor\\Anchor-{self.colorRef[item]["Anchor"]}.jpg')
-            imgDmc = mpimg.imread(
-                    f'C:\\Users\\SENA\\Downloads\\color_ref\\DMC\\117mc_e_{self.colorRef[item]["DMC"]}_swatch_150x150.jpg')
+            imgsAnchor.append(mpimg.imread(f"color_ref/Anchor/anchor{self.colorRef[item]['Anchor']}.jpg"))
+            imgsDmc.append(mpimg.imread(f"color_ref/DMC/dmc{self.colorRef[item]['DMC']}.jpg"))
 
-            axs[0, i].imshow(imgAnchor)
-            axs[1, i].imshow(imgDmc)
+
+            # axs[0, i].imshow(imgsAnchor[i])
+            # axs[1, i].imshow(imgsDmc[i])
 
         plt.show()
 
@@ -129,6 +130,6 @@ class CrossStitch:
 if __name__=="__main__":
     cs = CrossStitch()
     cs.load_image("c:\\users\\sena\\downloads\\jujuba_bg.png")
-    cs.centroid_histogram(6)
+    cs.centroid_histogram(7)
     cs.prepare_colors()
     cs.prepare_threads()
