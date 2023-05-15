@@ -34,6 +34,7 @@ class CrossStitch:
 
 
     def centroid_histogram(self, nClusters):
+        self.nClusters = nClusters
         clt = KMeans(n_clusters=nClusters)
         clt.fit(self.imgDim)
         # based on the number of pixels assigned to each cluster
@@ -59,6 +60,8 @@ class CrossStitch:
         for (percent, color) in zip(self.hist, self.clt.cluster_centers_):
             if (np.round(color) == np.array([0, 255, 0])).all():
                 pFact = percent
+            else:
+                pFact = 1/self.nClusters
 
         colors = []
 
@@ -90,17 +93,39 @@ class CrossStitch:
 
             idxRef.append(idxDict)
 
-        # imgsAnchor, imgsDmc = [], []
+        imgsAnchor, imgsDmc = [], []
 
-        # fig, axs = plt.subplots(2, len(idxRef))
+        fig, axs = plt.subplots(2, len(idxRef))
         for i, item in enumerate(idxRef):
             imgsAnchor.append(mpimg.imread(f"color_ref/Anchor/anchor{self.colorRef[item]['Anchor']}.jpg"))
             imgsDmc.append(mpimg.imread(f"color_ref/DMC/dmc{self.colorRef[item]['DMC']}.jpg"))
 
+            axs[0, i].imshow(imgsAnchor[i])
+            axs[0, i].set_xlabel(f"nº: {self.colorRef[item]['Anchor']}")
+            axs[0, i].set_xticks([])
+            axs[0, i].set_yticks([])
+            axs[0, i].xaxis.set_tick_params(labelbottom=False)
+            axs[0, i].yaxis.set_tick_params(labelleft=False) 
 
-            # axs[0, i].imshow(imgsAnchor[i])
-            # axs[1, i].imshow(imgsDmc[i])
+            axs[1, i].imshow(imgsDmc[i])
+            axs[1, i].set_xlabel(f"nº: {self.colorRef[item]['DMC']}")
+            axs[1, i].set_xticks([])
+            axs[1, i].set_yticks([])
+            axs[1, i].xaxis.set_tick_params(labelbottom=False)
+            axs[1, i].yaxis.set_tick_params(labelleft=False) 
 
+        fig2, ax = plt.subplots()
+        ax.imshow(self.img)
+        ax.set_title("Base image")
+
+        axs[0, 0].set_ylabel("Anchor")
+        axs[1, 0].set_ylabel("DMC")
+
+        fig.suptitle(f"Separation for {self.nClusters} clusters")
+
+        plt.rc('font', size=15)
+
+        plt.tight_layout()
         plt.show()
 
 
@@ -129,7 +154,7 @@ class CrossStitch:
 
 if __name__=="__main__":
     cs = CrossStitch()
-    cs.load_image("c:\\users\\sena\\downloads\\jujuba_bg.png")
-    cs.centroid_histogram(7)
+    cs.load_image("input_file.jpg")
+    cs.centroid_histogram(4)
     cs.prepare_colors()
     cs.prepare_threads()

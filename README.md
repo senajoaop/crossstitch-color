@@ -2,10 +2,13 @@
 
 This repository contains a Python app that calculates the most common colors in an input image using the KMeans algorithm. The app is designed to assist in embroidery pattern designing by associating RGB color values with commercially available cross stitch threads from DMC and Anchor companies.
 
+![Base Image](base_image.png)
+![Results](results.png)
+
 ## Usage
 
-1. Clone the repository: `git clone https://github.com/senajoaop/crossstitch-color.git`
-2. Navigate to the project directory: `cd crossstitch-color`
+1. Clone the repository: `git clone https://github.com/senajoaop/crossstitch_color.git`
+2. Navigate to the project directory: `cd crossstitch_color`
 3. Install the required dependencies: `pip install -r requirements.txt`
 4. Run the Python script: `python cross_stitch_color.py`
 5. Provide the path to the input image file when prompted.
