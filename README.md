@@ -7,10 +7,10 @@ This repository contains a Python app that calculates the most common colors in 
 
 ## Usage
 
-1. Clone the repository: `git clone https://github.com/senajoaop/crossstitch_color.git`
-2. Navigate to the project directory: `cd crossstitch_color`
+1. Clone the repository: `git clone https://github.com/senajoaop/crossstitch-color.git`
+2. Navigate to the project directory: `cd crossstitch-color`
 3. Install the required dependencies: `pip install -r requirements.txt`
-4. Run the Python script: `python cross_stitch_color.py`
+4. Run the Python script: `python CrossStitch.py`
 5. Provide the path to the input image file when prompted.
 6. The script will process the image using the KMeans algorithm to identify the most common colors.
 7. The app will then associate these colors with cross stitch threads from DMC and Anchor companies.
